@@ -1,14 +1,14 @@
 @import url("https://fonts.googleapis.com/css2?family=Vampiro+One&display=swap");
 
 body {
-  background: linear-gradient(hwb(204 23% 7%) 0%, #e97ef2 40%, #ce17f7 100%);
+  background: linear-gradient(rgb(19, 80, 250) 0%, #4190ff 40%, hsl(307, 96%, 67%) 100%);
   font-family: "Poppins", sans-serif;
 }
 
 .bg-light {
   background: #00000000 !important;
-  /* backdrop-filter: blur(3px);
-  box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.589); */
+  backdrop-filter: blur(3px);
+  box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.589);
   transition: all 0.5s;
 }
 .bg-light.scrolled {
