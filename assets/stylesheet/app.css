@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Vampiro+One&display=swap");
 
 body {
-  background: linear-gradient(rgb(19, 80, 250) 0%, #4190ff 40%, hsl(307, 96%, 67%) 100%);
+  background: linear-gradient(lab(59.32% -35.12 53.49) 0%, hwb(83 6% 0%) 40%, hsl(85, 100%, 62%) 100%);
   font-family: "Poppins", sans-serif;
 }
 
